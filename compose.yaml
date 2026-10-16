@@ -1,0 +1,8 @@
+name: demidov-task04
+services:
+  catalog:
+    build: .
+    ports: ["127.0.0.1:8040:8000"]
+    volumes: ["catalog-data:/app/data"]
+volumes:
+  catalog-data:

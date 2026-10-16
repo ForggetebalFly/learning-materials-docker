@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Образы и контейнеры",
+    "category": "Docker"
+  },
+  {
+    "id": 2,
+    "title": "Пользовательские сети",
+    "category": "Docker Network"
+  },
+  {
+    "id": 3,
+    "title": "Сервисы и тома",
+    "category": "Docker Compose"
+  }
+]
